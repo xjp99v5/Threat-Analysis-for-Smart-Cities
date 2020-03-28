@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2018/1/30 14:50
 # @Author  : Jiaping Xiao
-# @File    : testMain.py
+# @File    : Main.py
 
 import sys
 import widget
