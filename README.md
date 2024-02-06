@@ -7,7 +7,7 @@ If you are interested, please consider giving us a star and cite,
 ```
 @article{xiao2018,
   title={Data-Driven Cyber-Physical System Security Threat Analysis Model and Method for Smart Cities},
-  author={Jiang Jianchun and Xiao Jiaping and Tang Kun},
+  author={Jiang, Jianchun and Xiao, Jiaping and Tang, Kun},
   journal={Computer Systems and Applications},
   volume={27},
   number={7},
