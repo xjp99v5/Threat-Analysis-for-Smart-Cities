@@ -5,10 +5,10 @@ A Cyber-Physical System (CPS) is a mixed system integrated with computation, com
 If you are interested, please consider giving us a star and cite,
 
 ```
-@article{蒋建春2018面向智慧城市的数据驱动信息物理系统安全威胁分析模型与方法,
-  title={面向智慧城市的数据驱动信息物理系统安全威胁分析模型与方法},
-  author={蒋建春 and 肖佳平 and 唐琨},
-  journal={计算机系统应用},
+@article{xiao2018,
+  title={Data-Driven Cyber-Physical System Security Threat Analysis Model and Method for Smart Cities},
+  author={Jiang Jianchun and Xiao Jiaping and Tang Kun},
+  journal={Computer Systems and Applications},
   volume={27},
   number={7},
   pages={50--56},
